@@ -1,8 +1,6 @@
 # Linux Lite Wiki
 
-Welcome to the Linux Lite Wiki. Use the navigation to explore detailed guides.
-
-Here's a comprehensive and publication-ready structure for a **Linux Lite Wiki**, ideal for beginners and intermediate users. It includes detailed pages, sub-sections, and examples wherever needed.
+Welcome to the Linux Lite Wiki. Use the navigation to explore detailed guides. Here's a comprehensive **Linux Lite Wiki**, ideal for beginners and intermediate users. 
 
 ---
 
