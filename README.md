@@ -85,14 +85,6 @@ For any large-scale contributions or coordination, please open an Issue first.
 * Markdown (`.md`) format
 * Files organized by section (e.g., `4-core-applications.md`, `10-networking.md`)
 * Compatible with GitHub Pages and MkDocs
-
-To deploy locally using MkDocs:
-
-```bash
-pip install mkdocs
-mkdocs serve
-```
-
 ---
 
 ## 🔗 Useful Links
@@ -106,14 +98,14 @@ mkdocs serve
 
 ## 📄 License
 
-This documentation is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material with proper attribution.
+This documentation is licensed under the (https://www.gnu.org/licenses/old-licenses/lgpl-2.0.en.html). You are free to share and adapt the material with proper attribution.
 
 ---
 
 ## 💬 Feedback
 
 Found an error? Have suggestions?
-Please [open an Issue](https://github.com/YOUR_USERNAME/linux-lite-wiki/issues) or post on the [forums](https://www.linuxliteos.com/forums/).
+Please [open an Issue](https://github.com/Avijit1-Avi15/linux-lite-wiki/issues) or post on the [forums](https://www.linuxliteos.com/forums/).
 
 Let’s make Linux Lite even better—together.
 
