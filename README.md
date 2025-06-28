@@ -120,6 +120,3 @@ Let’s make Linux Lite even better—together.
 ```
 
 ---
-
-Let me know if you'd like this tailored for **MkDocs YAML config**, or for **GitHub Pages deployment** (`docs/` structure). I can also auto-generate all internal `.md` file links if needed.
-```
