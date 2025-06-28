@@ -1,0 +1,3 @@
+## Uninstalling Linux Lite
+### Dual Boot Reversal
+- Restore Windows bootloader...

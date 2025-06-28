@@ -1,0 +1,3 @@
+## Printing & Scanning
+### Printer Setup
+- Using CUPS GUI...

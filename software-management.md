@@ -1,0 +1,3 @@
+## Software Management
+### Lite Software
+- GUI tool to install popular apps...

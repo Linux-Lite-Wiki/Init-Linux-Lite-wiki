@@ -1,0 +1,3 @@
+## File Management
+### Thunar File Manager
+- Bookmarks, custom actions...

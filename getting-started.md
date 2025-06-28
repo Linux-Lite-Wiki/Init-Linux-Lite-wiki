@@ -1,0 +1,3 @@
+## Getting Started
+### First Boot
+- Welcome screen overview...

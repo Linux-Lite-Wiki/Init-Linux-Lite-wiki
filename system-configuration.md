@@ -1,0 +1,3 @@
+## System Configuration
+### Settings Manager
+- Appearance, Display, Power settings...

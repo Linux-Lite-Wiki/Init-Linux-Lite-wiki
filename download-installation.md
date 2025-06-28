@@ -1,0 +1,3 @@
+## Download & Installation
+### System Requirements
+- Minimum: 1 GHz CPU, 768 MB RAM...

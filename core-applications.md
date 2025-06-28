@@ -1,0 +1,3 @@
+## Core Applications
+### Pre-installed Applications
+- Firefox, Thunderbird, LibreOffice...

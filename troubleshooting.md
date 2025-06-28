@@ -1,0 +1,3 @@
+## Troubleshooting
+### Boot Issues
+- Live USB not working...
