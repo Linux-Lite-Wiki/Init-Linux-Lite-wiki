@@ -118,5 +118,3 @@ Please [open an Issue](https://github.com/YOUR_USERNAME/linux-lite-wiki/issues) 
 Let’s make Linux Lite even better—together.
 
 ```
-
----
