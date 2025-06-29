@@ -1,11 +1,5 @@
 ## Getting Started
 
-Here is the full content for **Section 3: Getting Started** of the Linux Lite Wiki:
-
----
-
-## 3. Getting Started
-
 After installing Linux Lite, your first boot experience is designed to be smooth and beginner-friendly. This section walks you through the key steps and settings to help you start using your system efficiently.
 
 ---
