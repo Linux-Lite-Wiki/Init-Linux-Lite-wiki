@@ -1,8 +1,3 @@
-## System Configuration
-Certainly. Here's the content for **Section 5: System Configuration** of the Linux Lite Wiki:
-
----
-
 ## 5. System Configuration
 
 Linux Lite provides a comprehensive range of tools for configuring system settings, hardware, and network options. Designed with usability in mind, these tools are accessible through the **Settings Manager** and other dedicated utilities that offer a straightforward experience for users at all levels.
