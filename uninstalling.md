@@ -1,8 +1,3 @@
-## Uninstalling Linux Lite
-Certainly. Here's the detailed content for:
-
----
-
 ## 18. Uninstalling Linux Lite
 
 There may be situations where you decide to remove Linux Lite from your system—either to revert to Windows, install a different Linux distribution, or reuse the storage. This guide covers both dual-boot reversal and full system wipe methods. Always back up your personal data before proceeding with any removal or partition operation.
