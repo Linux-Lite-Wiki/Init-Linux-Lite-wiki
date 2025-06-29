@@ -1,8 +1,3 @@
-## Community & Support
-Certainly. Here's the detailed content for:
-
----
-
 ## 19. Community & Support
 
 Linux Lite is more than just a lightweight operating system—it's also supported by a vibrant, helpful community of users, contributors, and developers. Whether you're a beginner or an experienced Linux user, there are several channels through which you can get help, contribute back, and stay engaged with the project.
