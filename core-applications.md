@@ -1,9 +1,3 @@
-## Core Applications
-
-Certainly. Below is the content for **Section 4: Core Applications** of the Linux Lite Wiki:
-
----
-
 ## 4. Core Applications
 
 Linux Lite comes bundled with a carefully selected suite of applications aimed at providing a complete and functional desktop experience right out of the box. These tools are a combination of popular open-source software and custom-built utilities developed specifically for Linux Lite.
