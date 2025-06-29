@@ -1,8 +1,3 @@
-## Migrating from Windows
-Certainly. Here's the detailed content for:
-
----
-
 ## 16. Migrating from Windows
 
 Transitioning from Windows to Linux Lite is a smooth experience, especially for users who value a familiar desktop layout, intuitive settings, and broad application support. This section helps Windows users understand the key differences and similarities between the two operating systems, and introduces suitable Linux Lite alternatives for popular Windows applications.
