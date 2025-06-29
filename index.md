@@ -405,6 +405,5 @@ Welcome to the Linux Lite Wiki. Use the navigation to explore detailed guides. H
 
 ### 20.4 Changelog & Version History
 
----
 
 
