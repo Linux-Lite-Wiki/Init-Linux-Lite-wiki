@@ -9,7 +9,7 @@ Welcome to the **Linux Lite Wiki**, a comprehensive and community-maintained doc
 
 ---
 
-##📖About
+## 📖 About
 
 **Linux Lite** is a lightweight, beginner-friendly Linux distribution based on Ubuntu LTS. It is designed to make the transition from Windows to Linux as seamless as possible, especially for users with older hardware.
 
