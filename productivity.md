@@ -1,8 +1,3 @@
-## Productivity
-Certainly. Here's the full content for **Section 13: Productivity** of the Linux Lite Wiki:
-
----
-
 ## 13. Productivity
 
 Linux Lite is well-equipped for productivity tasks right out of the box. From office work to cloud syncing and digital note-taking, users can easily transform their system into a reliable, distraction-free environment for professional or academic use.
@@ -169,6 +164,3 @@ Rclone supports:
 * File deduplication
 
 This makes it ideal for power users, remote backups, or headless systems.
-
----
-
