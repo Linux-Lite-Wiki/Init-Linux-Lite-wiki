@@ -1,8 +1,3 @@
-## Security & Privacy
-Certainly. Here's the detailed content for **Section 10: Security & Privacy** of the Linux Lite Wiki:
-
----
-
 ## 10. Security & Privacy
 
 Security in Linux Lite is grounded in the robust foundations of the Linux kernel and Ubuntu repositories. However, proactive configuration can further enhance protection from intrusions, malware, and misconfigurations. This section provides practical steps for improving system security and maintaining user privacy.
@@ -252,6 +247,3 @@ sudo fail2ban-client status sshd
 ```
 
 This provides an effective first layer of defense against automated attacks on SSH and other services.
-
----
-
