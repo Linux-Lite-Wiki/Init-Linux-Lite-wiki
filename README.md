@@ -84,7 +84,7 @@ For any large-scale contributions or coordination, please open an Issue first.
 
 * Markdown (`.md`) format
 * Files organized by section (e.g., `4-core-applications.md`, `10-networking.md`)
-* Compatible with GitHub Pages and MkDocs
+* Compatible with GitHub Pages
 ---
 
 ## 🔗 Useful Links
