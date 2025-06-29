@@ -1,8 +1,3 @@
-## Introduction
-Here is the detailed and publication-ready content for:
-
----
-
 # **1. Introduction**
 
 ## **1.1 What is Linux Lite?**
