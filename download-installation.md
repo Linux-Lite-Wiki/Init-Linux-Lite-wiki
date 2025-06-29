@@ -1,9 +1,3 @@
-## Download & Installation
-
-Here is the detailed content for **Section 2: Download & Installation** of the Linux Lite Wiki:
-
----
-
 ## 2. Download & Installation
 
 This section covers everything you need to know to download, create installation media, and install Linux Lite on your system.
