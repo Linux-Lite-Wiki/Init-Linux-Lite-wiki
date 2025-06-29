@@ -1,8 +1,3 @@
-## Appendix
-Certainly. Here's the detailed content for:
-
----
-
 ## 20. Appendix
 
 This section provides supporting information and reference material for Linux Lite users, including a glossary of commonly used Linux terms, essential keyboard shortcuts, frequently asked questions, and a changelog of version updates.
