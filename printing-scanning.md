@@ -1,8 +1,3 @@
-## Printing & Scanning
-Certainly. Below is the detailed content for **Section 11: Printing & Scanning** of the Linux Lite Wiki:
-
----
-
 ## 11. Printing & Scanning
 
 Linux Lite includes built-in support for a wide range of printers and scanners. Most devices are detected automatically, and tools like **CUPS**, **system-config-printer**, **Simple Scan**, and **SANE** offer easy setup and configuration for both home and office use.
