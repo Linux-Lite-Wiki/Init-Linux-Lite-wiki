@@ -1,8 +1,3 @@
-## System Maintenance
-Here is the full content for **Section 7: System Maintenance** of the Linux Lite Wiki:
-
----
-
 ## 7. System Maintenance
 
 Maintaining a Linux Lite system is simple and requires minimal technical knowledge. With built-in tools and regular upkeep, users can ensure their system remains secure, fast, and reliable over time.
