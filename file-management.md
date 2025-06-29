@@ -1,8 +1,3 @@
-## File Management
-Certainly. Here's the detailed content for:
-
----
-
 ## 17. File Management
 
 Linux Lite offers powerful and user-friendly tools for managing files and storage devices. Its default file manager, **Thunar**, is lightweight, fast, and highly customizable—perfect for users who want both simplicity and control. Additionally, Linux Lite ensures seamless access to USB drives, external storage, and NTFS-formatted partitions.
