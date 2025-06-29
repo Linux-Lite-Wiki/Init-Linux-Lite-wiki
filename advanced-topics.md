@@ -1,8 +1,3 @@
-## Advanced Topics
-**Section 9: Advanced Topics** of the Linux Lite Wiki:
-
----
-
 ## 9. Advanced Topics
 
 This section introduces more advanced aspects of Linux Lite, enabling users to deepen their understanding of the system and tailor it to their specific needs. Topics include terminal usage, monitoring, service management, and desktop customization.
